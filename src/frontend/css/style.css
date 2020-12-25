@@ -1,0 +1,162 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #1d2540;
+}
+
+.title {
+  position: absolute;
+  width: 317px;
+  height: 54px;
+  left: 53px;
+  top: 19px;
+
+  font-family: ABeeZee;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 48px;
+  line-height: 57px;
+
+  color: #1eaeff;
+}
+
+.title a {
+  color: #1eaeff;
+  text-decoration: none;
+}
+
+.items {
+  position: absolute;
+  width: 141px;
+  height: 49px;
+  left: 802px;
+  top: 30px;
+
+  font-family: ABeeZee;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 43px;
+
+  color: #ffffff;
+}
+
+.add {
+  position: absolute;
+  width: 178px;
+  height: 49px;
+  left: 1270px;
+  top: 30px;
+
+  font-family: ABeeZee;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 43px;
+
+  color: #ffffff;
+}
+
+.support {
+  position: absolute;
+  width: 141px;
+  height: 49px;
+  left: 1500px;
+  top: 30px;
+
+  font-family: ABeeZee;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 43px;
+
+  color: #ffffff;
+}
+
+.login {
+  position: absolute;
+  width: 120px;
+  height: 49px;
+  left: 1700px;
+  top: 30px;
+
+  font-family: ABeeZee;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 43px;
+
+  color: white;
+}
+
+.support a,
+.login a,
+.add a {
+  color: white;
+  text-decoration: none;
+}
+
+.support a:hover,
+.login a:hover,
+.add a:hover {
+  color: rgba(255, 255, 255, 0.664);
+}
+
+.line {
+  position: absolute;
+  width: 1800px;
+  height: 0px;
+  left: 53px;
+  top: 110px;
+
+  border: 2px solid #ffffff;
+}
+
+.slogan {
+  position: absolute;
+  width: 396px;
+  height: 51px;
+  left: 56px;
+  top: 140px;
+
+  font-family: ABeeZee;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.search {
+  position: absolute;
+  width: 301px;
+  height: 63px;
+  left: 53px;
+  top: 220px;
+  color: white;
+  font-size: 30px;
+
+  background: #1d2540;
+  border: 2px solid white;
+  border-radius: 10px;
+  outline: none;
+
+  font-family: ABeeZee;
+}
+
+.featured {
+  position: relative;
+  top: 278px;
+  text-align: center;
+
+  font-family: ABeeZee;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 72px;
+  line-height: 85px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
